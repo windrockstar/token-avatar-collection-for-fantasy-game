@@ -14,7 +14,7 @@ The artists and creators that own these works are incredibly talented and deserv
 
 #### Request to Update Image Credits
 
-Unfortunately, I'm not always able to track down that information successfully. If you find an image without a credit and you have the proper information, please send a  email to this address issueskankaio@gmail.com and I'll update credit appropriately.
+Unfortunately, I'm not always able to track down that information successfully. If you find an image without a credit and you have the proper information, please open a issue on this project and I'll update credit appropriately.
 
 #### Request to Remove Images
-If you own the rights to images found on this site and wish to see them removed, that is your right and I'll willingly comply. Please send a  email to this address issueskankaio@gmail.com and I'll attend to the request as soon as possible.
+If you own the rights to images found on this site and wish to see them removed, that is your right and I'll willingly comply. Please open a issue on this project  and I'll attend to the request as soon as possible.
